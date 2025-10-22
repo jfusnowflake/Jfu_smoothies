@@ -1,4 +1,4 @@
-# requirements.txt（推荐）
-snowflake-connector-python
+requirements.txt
+python=3.11
 snowflake-snowpark-python
-pandas
+streamlit
